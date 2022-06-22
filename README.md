@@ -26,3 +26,5 @@ Qual o salário líquido do funcionário.
 Como entregar os exercícios:
 Documentar a entrega marcando no classroom e adicionar o link do repositório do GitHub contendo o código do exercício e a descrição do 
 projeto no arquivo Readme.md, ou seja, você irá criar um repositório para essa aula e mandar o link dele, com os exercícios finalizados, via classroom.
+
+teste
